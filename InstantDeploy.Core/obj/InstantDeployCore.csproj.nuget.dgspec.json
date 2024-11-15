@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CSharp\\InstantDeploy\\InstantDeploy\\InstantDeploy.Core\\InstantDeployCore.csproj": {}
+  },
+  "projects": {
+    "D:\\CSharp\\InstantDeploy\\InstantDeploy\\InstantDeploy.Core\\InstantDeployCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CSharp\\InstantDeploy\\InstantDeploy\\InstantDeploy.Core\\InstantDeployCore.csproj",
+        "projectName": "InstantDeployCore",
+        "projectPath": "D:\\CSharp\\InstantDeploy\\InstantDeploy\\InstantDeploy.Core\\InstantDeployCore.csproj",
+        "packagesPath": "C:\\Users\\xinlin.huang\\.nuget\\packages\\",
+        "outputPath": "D:\\CSharp\\InstantDeploy\\InstantDeploy\\InstantDeploy.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\开发工具\\VisualStudio 2022\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xinlin.huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\CircleHarmonyHealth\\backend\\wag-blazor-app.-extensions2\\src": {},
+          "D:\\工作目录及文档\\圆和医疗项目信息及文档\\Code\\wag-blazor-app.-extensions2\\src\\local_nupkg": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {},
+          "https://repo.huaweicloud.com/repository/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\CSharp\\InstantDeploy\\InstantDeploy\\InstantDeploy.SharedPacks\\InstantDeploy.SharedPacks.csproj": {
+                "projectPath": "D:\\CSharp\\InstantDeploy\\InstantDeploy\\InstantDeploy.SharedPacks\\InstantDeploy.SharedPacks.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CSharp\\InstantDeploy\\InstantDeploy\\InstantDeploy.SharedPacks\\InstantDeploy.SharedPacks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CSharp\\InstantDeploy\\InstantDeploy\\InstantDeploy.SharedPacks\\InstantDeploy.SharedPacks.csproj",
+        "projectName": "InstantDeploy.SharedPacks",
+        "projectPath": "D:\\CSharp\\InstantDeploy\\InstantDeploy\\InstantDeploy.SharedPacks\\InstantDeploy.SharedPacks.csproj",
+        "packagesPath": "C:\\Users\\xinlin.huang\\.nuget\\packages\\",
+        "outputPath": "D:\\CSharp\\InstantDeploy\\InstantDeploy\\InstantDeploy.SharedPacks\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\开发工具\\VisualStudio 2022\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xinlin.huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\CircleHarmonyHealth\\backend\\wag-blazor-app.-extensions2\\src": {},
+          "D:\\工作目录及文档\\圆和医疗项目信息及文档\\Code\\wag-blazor-app.-extensions2\\src\\local_nupkg": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {},
+          "https://repo.huaweicloud.com/repository/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

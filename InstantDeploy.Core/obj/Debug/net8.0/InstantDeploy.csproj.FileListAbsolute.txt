@@ -1,0 +1,34 @@
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\bin\Debug\net8.0\InstantDeploy.deps.json
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\bin\Debug\net8.0\InstantDeploy.dll
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\bin\Debug\net8.0\InstantDeploy.pdb
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\bin\Debug\net8.0\InstantDeploy.SharedPacks.dll
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\bin\Debug\net8.0\InstantDeploy.SharedPacks.pdb
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.csproj.AssemblyReference.cache
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.AssemblyInfoInputs.cache
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.AssemblyInfo.cs
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.csproj.CoreCompileInputs.cache
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantD.E748F78C.Up2Date
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.dll
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\refint\InstantDeploy.dll
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.pdb
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\ref\InstantDeploy.dll
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.Properties.Resources.resources
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.csproj.GenerateResource.cache
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\bin\Debug\net8.0\InstantDeploy.deps.json
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\bin\Debug\net8.0\InstantDeploy.dll
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\bin\Debug\net8.0\InstantDeploy.pdb
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\bin\Debug\net8.0\InstantDeploy.SharedPacks.dll
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\bin\Debug\net8.0\InstantDeploy.SharedPacks.pdb
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.csproj.AssemblyReference.cache
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.Properties.Resources.resources
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.csproj.GenerateResource.cache
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.AssemblyInfoInputs.cache
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.AssemblyInfo.cs
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.csproj.CoreCompileInputs.cache
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantD.E748F78C.Up2Date
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.dll
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\refint\InstantDeploy.dll
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.pdb
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\ref\InstantDeploy.dll

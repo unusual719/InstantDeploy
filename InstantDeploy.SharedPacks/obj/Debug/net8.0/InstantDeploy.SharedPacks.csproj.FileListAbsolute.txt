@@ -1,0 +1,24 @@
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.SharedPacks\bin\Debug\net8.0\InstantDeploy.SharedPacks.deps.json
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.SharedPacks\bin\Debug\net8.0\InstantDeploy.SharedPacks.dll
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.SharedPacks\bin\Debug\net8.0\InstantDeploy.SharedPacks.pdb
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.csproj.AssemblyReference.cache
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.AssemblyInfoInputs.cache
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.AssemblyInfo.cs
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.csproj.CoreCompileInputs.cache
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.dll
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\refint\InstantDeploy.SharedPacks.dll
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.pdb
+D:\CSharp\InstantDeploy\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\ref\InstantDeploy.SharedPacks.dll
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.SharedPacks\bin\Debug\net8.0\InstantDeploy.SharedPacks.deps.json
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.SharedPacks\bin\Debug\net8.0\InstantDeploy.SharedPacks.dll
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.SharedPacks\bin\Debug\net8.0\InstantDeploy.SharedPacks.pdb
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.csproj.AssemblyReference.cache
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.AssemblyInfoInputs.cache
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.AssemblyInfo.cs
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.csproj.CoreCompileInputs.cache
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.dll
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\refint\InstantDeploy.SharedPacks.dll
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\InstantDeploy.SharedPacks.pdb
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.SharedPacks\obj\Debug\net8.0\ref\InstantDeploy.SharedPacks.dll

@@ -1,0 +1,2 @@
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.Core.csproj.AssemblyReference.cache
+D:\C# & .NET 书籍\CodeExamples\InstantDeploy\InstantDeploy.Core\obj\Debug\net8.0\InstantDeploy.Core.csproj.GenerateResource.cache
